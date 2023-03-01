@@ -1,0 +1,13 @@
+{
+  "environment": "dev",
+  "project_name": "helloworld",
+  "repository": {
+    "module_enabled": "false",
+    "names": ["backend", "frontend"],
+    "type": "IMMUTABLE"
+  },
+  "state": {
+    "bucket": "helloworld-bucket",
+    "lock": "helloworld-lock"
+  }
+}
