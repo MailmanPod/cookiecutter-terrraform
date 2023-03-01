@@ -2,7 +2,6 @@
   "environment": "dev",
   "project_name": "helloworld",
   "repository": {
-    "module_enabled": "false",
     "names": ["backend", "frontend"],
     "type": "IMMUTABLE"
   },
