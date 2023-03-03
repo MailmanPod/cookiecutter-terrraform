@@ -1,0 +1,9 @@
+{
+  "project_path": "../",
+  "project_name": "helloworld",
+  "environments": [
+    {"name":  "dev"},
+    {"name":  "stage"},
+    {"name":  "prod"}
+  ]
+}

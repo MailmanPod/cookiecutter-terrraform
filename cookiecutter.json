@@ -1,5 +1,5 @@
 {
-  "environment": "dev",
+  "environment": "",
   "project_name": "helloworld",
   "repository": {
     "names": ["backend", "frontend"],
